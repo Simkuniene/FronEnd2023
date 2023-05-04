@@ -8,7 +8,7 @@
 //Sukurkite virš lentelės ir search laukelį (forma su input type search ir mygtukas).
 //Suvedus duomenis, lentelėje turi prasifiltruoti pagal vardą
 //arba pavardę (fullname contains search string). Capitalizacija turėtų būti nesvarbi.
-
+///////
 const label = document.createElement("label");
 label.for = "vip";
 label.textContent = "VIP";
